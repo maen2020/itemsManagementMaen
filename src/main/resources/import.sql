@@ -1,0 +1,10 @@
+INSERT INTO item (name, description, price, sku) VALUES ('Laptop', 'Ultrabook de 14 pulgadas', 1299.99, 'LAP-001');
+INSERT INTO item (name, description, price, sku) VALUES ('Mouse', 'Mouse inalámbrico', 29.99, 'MOU-002');
+INSERT INTO item (name, description, price, sku) VALUES ('Teclado', 'Teclado mecánico retroiluminado', 89.50, 'KEY-003');
+INSERT INTO item (name, description, price, sku) VALUES ('Monitor', 'Monitor LED 24 pulgadas Full HD', 199.99, 'MON-004');
+INSERT INTO item (name, description, price, sku) VALUES ('Auriculares', 'Auriculares con cancelación de ruido', 149.00, 'AUD-005');
+INSERT INTO item (name, description, price, sku) VALUES ('Webcam', 'Webcam HD 1080p con micrófono', 79.99, 'CAM-006');
+INSERT INTO item (name, description, price, sku) VALUES ('Impresora', 'Impresora multifuncional Wi-Fi', 249.99, 'PRN-007');
+INSERT INTO item (name, description, price, sku) VALUES ('Tablet', 'Tablet Android 10 pulgadas', 299.00, 'TAB-008');
+INSERT INTO item (name, description, price, sku) VALUES ('Router', 'Router inalámbrico de doble banda', 99.99, 'RTR-009');
+INSERT INTO item (name, description, price, sku) VALUES ('Disco Duro', 'Disco duro externo 1TB USB 3.0', 89.00, 'HDD-010');

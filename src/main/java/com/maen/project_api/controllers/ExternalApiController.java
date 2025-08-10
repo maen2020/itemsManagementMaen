@@ -1,6 +1,6 @@
-package com.maen.ItemStoreAPI.controllers;
+package com.maen.project_api.controllers;
 
-import com.maen.ItemStoreAPI.service.ExternalApiService;
+import com.maen.project_api.service.ExternalApiService;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;

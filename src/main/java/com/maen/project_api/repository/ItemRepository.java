@@ -1,6 +1,6 @@
-package com.maen.ItemStoreAPI.repository;
+package com.maen.project_api.repository;
 
-import com.maen.ItemStoreAPI.entities.Item;
+import com.maen.project_api.entities.Item;
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.stereotype.Repository;
 

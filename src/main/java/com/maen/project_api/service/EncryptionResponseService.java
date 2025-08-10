@@ -1,4 +1,4 @@
-package com.maen.ItemStoreAPI.service;
+package com.maen.project_api.service;
 
 public class EncryptionResponseService {
 

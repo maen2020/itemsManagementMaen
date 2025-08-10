@@ -1,7 +1,7 @@
-package com.maen.ItemStoreAPI.controllers;
+package com.maen.project_api.controllers;
 
-import com.maen.ItemStoreAPI.service.AESService;
-import com.maen.ItemStoreAPI.service.EncryptionResponseService;
+import com.maen.project_api.service.AESService;
+import com.maen.project_api.service.EncryptionResponseService;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;

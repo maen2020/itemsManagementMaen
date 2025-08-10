@@ -1,8 +1,8 @@
-package com.maen.ItemStoreAPI.persistence.impl;
+package com.maen.project_api.persistence.impl;
 
-import com.maen.ItemStoreAPI.entities.Item;
-import com.maen.ItemStoreAPI.persistence.ItemsDAO;
-import com.maen.ItemStoreAPI.repository.ItemRepository;
+import com.maen.project_api.entities.Item;
+import com.maen.project_api.persistence.ItemsDAO;
+import com.maen.project_api.repository.ItemRepository;
 import org.springframework.stereotype.Component;
 
 import java.util.List;

@@ -1,6 +1,6 @@
-package com.maen.ItemStoreAPI.persistence;
+package com.maen.project_api.persistence;
 
-import com.maen.ItemStoreAPI.entities.Item;
+import com.maen.project_api.entities.Item;
 
 import java.util.List;
 import java.util.Optional;

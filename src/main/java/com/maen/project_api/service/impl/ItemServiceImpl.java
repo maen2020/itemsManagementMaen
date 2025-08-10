@@ -1,8 +1,8 @@
-package com.maen.ItemStoreAPI.service.impl;
+package com.maen.project_api.service.impl;
 
-import com.maen.ItemStoreAPI.entities.Item;
-import com.maen.ItemStoreAPI.persistence.ItemsDAO;
-import com.maen.ItemStoreAPI.service.IItemService;
+import com.maen.project_api.entities.Item;
+import com.maen.project_api.persistence.ItemsDAO;
+import com.maen.project_api.service.IItemService;
 import org.springframework.stereotype.Service;
 
 import java.util.List;

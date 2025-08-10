@@ -1,4 +1,4 @@
-package com.maen.ItemStoreAPI.controllers;
+package com.maen.project_api.controllers;
 
 import io.jsonwebtoken.Jwts;
 import io.jsonwebtoken.SignatureAlgorithm;

@@ -1,4 +1,4 @@
-package com.maen.ItemStoreAPI.controllers.dto;
+package com.maen.project_api.controllers.dto;
 
 import java.math.BigDecimal;
 

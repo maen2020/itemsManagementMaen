@@ -1,4 +1,4 @@
-package com.maen.ItemStoreAPI.entities;
+package com.maen.project_api.entities;
 
 import javax.persistence.*;
 import java.math.BigDecimal;

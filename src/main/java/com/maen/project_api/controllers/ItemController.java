@@ -1,8 +1,8 @@
-package com.maen.ItemStoreAPI.controllers;
+package com.maen.project_api.controllers;
 
-import com.maen.ItemStoreAPI.controllers.dto.ItemDTO;
-import com.maen.ItemStoreAPI.entities.Item;
-import com.maen.ItemStoreAPI.service.IItemService;
+import com.maen.project_api.controllers.dto.ItemDTO;
+import com.maen.project_api.entities.Item;
+import com.maen.project_api.service.IItemService;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 

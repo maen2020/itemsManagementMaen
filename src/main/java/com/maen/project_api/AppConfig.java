@@ -1,4 +1,4 @@
-package com.maen.ItemStoreAPI;
+package com.maen.project_api;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
